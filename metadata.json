@@ -1,0 +1,6 @@
+{
+  "name": "Vital AI",
+  "description": "Vital AI — Next-Generation AI-Powered Healthcare, Hospital & Patient Intelligence Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
